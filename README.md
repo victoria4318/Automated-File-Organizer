@@ -1,7 +1,7 @@
 <h1>Automated File Organizer</h1>
 
 <h2>Description</h2>
-This automated file organizer quickly and efficiently sorts files within a specified directory by categorizing them based on file type. It streamlines the process of decluttering a messy desktop, making it easy to organize files in just seconds!
+Python script that categorizes and organizes files in a specified directory based on file type. This tool simplifies desktop organization, making it easy to declutter files in seconds.
 <br />
 
 <h2>Languages and Utilities Used</h2>
